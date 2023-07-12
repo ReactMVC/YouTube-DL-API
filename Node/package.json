@@ -1,0 +1,15 @@
+{
+  "name": "darktube",
+  "version": "1.0.0",
+  "description": "fast youtube downloader api",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hossein Pira",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "express": "^4.18.2"
+  }
+}
